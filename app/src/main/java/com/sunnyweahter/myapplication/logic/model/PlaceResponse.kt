@@ -5,4 +5,7 @@ class PlaceResponse(val name : String) {
         get() {
             TODO()
         }
+    fun test(){
+        println("123")
+    }
 }
