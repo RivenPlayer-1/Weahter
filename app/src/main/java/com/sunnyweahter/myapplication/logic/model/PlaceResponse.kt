@@ -1,4 +1,4 @@
 package com.sunnyweahter.myapplication.logic.model
 
-class PlaceResponse {
+class PlaceResponse(val name : String) {
 }
